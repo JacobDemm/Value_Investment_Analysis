@@ -157,16 +157,6 @@ CAG wins on **lowest Beta** (near-zero market correlation) and is the **only pro
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download this repository
-2. Open `Week_8_Project.pbix` in **Power BI Desktop**
-3. If prompted to refresh data, point the data source to the included `sp-500-index-02-21-2026.csv` file
-4. Use the navigation buttons on Page 1 to explore the report
-5. Use the sector slicer on Page 2 to filter visuals interactively
-
----
-
 ## 📌 Notes
 
 - The dataset does not include a company **Name** column — only ticker symbols are available from the Barchart export
